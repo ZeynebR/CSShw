@@ -1,0 +1,14 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+
+div .card .eyes
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+
+}
